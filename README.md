@@ -1,0 +1,1 @@
+# MiniAI-ID-DocumentRecognition-Windows
