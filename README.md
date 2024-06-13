@@ -72,15 +72,15 @@ Try it out today!
 
 ### Endpoint
 
-- `POST http://127.0.0.1:8082/id_check` ID Document Recognition API
+- `POST http://127.0.0.1:8082/api/id_check` ID Document Recognition API
 
-- `POST http://127.0.0.1:8082/bank_credit_check` Bank & Credit Card Reader API
+- `POST http://127.0.0.1:8082/api/bank_credit_check` Bank & Credit Card Reader API
 
-- `POST http://127.0.0.1:8082/mrz_barcode_check` MRZ & Barcode Recognition API
+- `POST http://127.0.0.1:8082/api/mrz_barcode_check` MRZ & Barcode Recognition API
 
 ### Request
 
-- **URL:** `http://127.0.0.1:8082/id_check`
+- **URL:** `http://127.0.0.1:8082/api/id_check`
 - **Method:** `POST`
 - **Form Data:**
   - `image`: The image file (PNG, JPG, etc.) to be analyzed. This should be provided as a file upload.
@@ -127,7 +127,7 @@ This example demonstrates how to send an image file to the API endpoint and proc
 import requests
 
 # URL of the web API endpoint
-url = 'http://127.0.0.1:8082/id_check'
+url = 'http://127.0.0.1:8082/api/id_check'
 
 # Path to the image file you want to send
 image_path = './test_image.jpg'
