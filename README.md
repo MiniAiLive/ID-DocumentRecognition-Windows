@@ -19,6 +19,7 @@ Try it out today!
 > - 10,000+ document templates covering IDs issued in 200+ countries and territories.
 >
 > - Support of 100+ languages and special characters via sophisticated neural networks.
+![installer](https://github.com/MiniAiLive/ID-DocumentRecognition-Windows/assets/127708602/437907e0-9865-4752-aa46-5c99379d8d82)
 
 ## Test Result
 <img src="https://github.com/MiniAiLive/MiniAI-IDCardRecognition/assets/153516004/9617f437-ee9b-4638-89e9-9c8ea746315c" alt="Test4" width="200" />
