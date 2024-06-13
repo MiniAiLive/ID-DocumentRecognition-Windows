@@ -12,7 +12,6 @@ Designed to fit seamlessly together, our technology can be integrated as a fully
 Try it out today!
 
 > **Note**
->
 > - Our SDK is fully on-premise, processing all happens on hosting server and no data leaves server.
 > - 8,000+ document templates covering IDs issued in 200+ countries and territories.
 > - Support of 100+ languages and special characters via sophisticated neural networks.
@@ -44,23 +43,30 @@ Try it out today!
 2. **Install the On-premise Server:**
 
    Run the installer and follow the on-screen instructions to complete the installation.
-   <img src=https://github.com/MiniAiLive/ID-DocumentRecognition-Windows/assets/127708602/437907e0-9865-4752-aa46-5c99379d8d82 alt="install"
-   width="300" align="center">
+   <div align="center">
+      <img src=https://github.com/MiniAiLive/ID-DocumentRecognition-Windows/assets/127708602/437907e0-9865-4752-aa46-5c99379d8d82 alt="install">
+   </div>
 
-   You can refer our Documentation [here](https://docs.miniai.live)
+4. **Request License and Update:**
 
-3. **Request License and Update:**
-
-   Run MIRequest.exe file for generate license request file. You can find it here.
+   Run MIRequest.exe file to generate a license request file. You can find it here.
    
-   C:\Program Files\MiniAiLive\MiniAiLive-ID-Server
+   > C:\Program Files\MiniAiLive\MiniAiLive-ID-Server
 
-   Open it, generate license request file, and send it to us via email or WhatsApp. We will send the license based on your Unique Request file, then you can upload the license file to allow to use. Refer the below images.
+   Open it, generate a license request file, and send it to us via email or WhatsApp. We will send the license based on your Unique Request file, then you can upload the license file to allow to use. Refer the below images.
+   <div align="center">
+      <img src="https://github.com/MiniAiLive/ID-DocumentRecognition-Windows/assets/127708602/88c38efb-c599-4a79-8070-5524a8a60c7b" width="400" />
+      <img src="https://github.com/MiniAiLive/ID-DocumentRecognition-Windows/assets/127708602/a7f7d7d4-b711-4183-851b-20cf873a02e0" width="400" />
+      <img src="https://github.com/MiniAiLive/ID-DocumentRecognition-Windows/assets/127708602/f841cb29-4b34-4653-8bf4-e682e394dc1b" width="400" />
+      <img src="https://github.com/MiniAiLive/ID-DocumentRecognition-Windows/assets/127708602/5a0fe2d9-a12b-40c7-b835-9d8e19d31f8b" width="400" />
+   </div>
 
-4. **Verify Installation:**
+6. **Verify Installation:**
 
    After installation, verify that the On-premise Server is correctly installed by checking the task manager:
-   
+   <div align="center">
+      <img src="https://github.com/MiniAiLive/ID-DocumentRecognition-Windows/assets/127708602/b1ffcdba-37f9-4f41-bb43-70b836b241f5" />
+   </div>
 
 ## API Details
 
@@ -82,7 +88,9 @@ Try it out today!
 ### Response
 
 The API returns a JSON object with the recognized details from the ID document. Here is an example response:
-
+   <div align="center">
+      <img src="https://github.com/MiniAiLive/ID-DocumentRecognition-Windows/assets/127708602/c515e8b3-691c-4bf2-b8f7-4d33df676dec" />
+   </div>
 ## Gradio Demo
 
 We have included a Gradio demo to showcase the capabilities of our ID Document Recognition SDK. Gradio is a Python library that allows you to quickly create user interfaces for machine learning models.
