@@ -153,6 +153,7 @@ try:
 except requests.exceptions.RequestException as e:
     print('An error occurred:', e)
 ```
+
 ## Request license
 Feel free to [Contact US](https://www.miniai.live/contact/)  to get a trial License. We are 24/7 online on WhatsApp: [+19162702374](https://wa.me/+19162702374).
 
