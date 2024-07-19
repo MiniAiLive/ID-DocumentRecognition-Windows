@@ -117,8 +117,8 @@ We have included a Gradio demo to showcase the capabilities of our ID Document R
 
    ```sh
    git clone https://github.com/MiniAiLive/ID-DocumentRecognition-Windows-SDK.git
-   cd gradio
    pip install -r requirement.txt
+   cd gradio
    ```
 2. **Run Gradio Demo:**
    ```sh
