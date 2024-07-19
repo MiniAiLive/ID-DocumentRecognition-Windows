@@ -38,7 +38,7 @@ Try it out today!
 
    Download the Server installer for your operating system from the following link:
    
-   [Download the On-premise Server Installer](https://drive.google.com/file/d/1dOS21r57jolTMa4dGhsOkrd68R2bAU0Q/view?usp=sharing)
+   [Download the On-premise Server Installer](https://drive.google.com/file/d/1F5AIuDdXT9ctfsEqwC78IrboqwbYwTYd/view?usp=sharing)
 
 2. **Install the On-premise Server:**
 
